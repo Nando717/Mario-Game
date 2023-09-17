@@ -1,4 +1,5 @@
-# Mario-Game
+
+![WhatsApp Image 2023-09-17 at 13 17 36](https://github.com/Nando717/Meu-Clone-Spotify-HTML/assets/125201522/e7f06cc8-ff1d-483e-afaa-357069010070)
 
 # Be welcome!
 
